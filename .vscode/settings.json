@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^pkill -f run\\.py \\|\\| true && sleep 1 && python3 run\\.py$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
