@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+check_sprites.py
+check_sprites2.py
